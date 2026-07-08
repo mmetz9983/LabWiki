@@ -86,9 +86,13 @@ Read the Cover Page Instructions for how to create your cover page, what you nee
 For more information on the [School Readiness Study](study-schoolReadinessStudy.qmd), you are encouraged to read papers from the project, view the available measures, examine the Data Dictionary, and see the pre-registered hypotheses.
 These resources are available on the project page for the [School Readiness Study](study-schoolReadinessStudy.qmd).
 
-There are many helpful resources on the lab drive for thesis projects, including resources for data analysis, example theses, example posters, cover page instructions, and helpful readings.
-You can find these resources at the following location on the lab drive:
+There are many helpful resources on the lab drive for thesis projects, including resources for data analysis, example theses, example posters, poster templates, cover page instructions, and helpful readings.
+You can find these resources at the following locations on the lab drive:
 `\\lc-rs-store24.hpc.uiowa.edu\lss_itpetersen\Lab\Miscellaneous\Honors Thesis\`
+
+and
+
+`\\lc-rs-store24.hpc.uiowa.edu\lss_itpetersen\Lab\Publications\`
 
 We also have a page the clarifies the difference between mediation and moderation [here](mediationModeration.qmd).
 
